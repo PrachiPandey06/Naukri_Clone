@@ -20,7 +20,7 @@ Javascript, HTML, CSS...
 Clone the project
 
 ```bash
-  git clone https://github.com/Shubh-Pawar007/Naukri-Clone.git
+https://github.com/PrachiPandey06/Naukri_Clone
 ```
 
 Go to the project directory
@@ -44,7 +44,7 @@ Start the server
 
 ## Support
 
-For support, email -gentalman1945@gmail.com 
+For support, email -prachipandeybgp13@gmail.com 
 
 
 ## Screenshots
@@ -62,7 +62,7 @@ Please adhere to this project's `code of conduct`.
 
 See  list of contributors who participated in this project.
 
-https://github.com/Shubh-Pawar007/Naukri-Clone/graphs/contributors
+https://github.com/PrachiPandey06/Naukri_Clone/graphs/contributors
 ## Demo
 
 https://practical-wilson-0e6184.netlify.app
@@ -70,17 +70,12 @@ https://practical-wilson-0e6184.netlify.app
 
 ## Authors
 
-- [Shubham Pawar](https://github.com/Shubh-Pawar007)
+- [Prachi Pandey](https://github.com/PrachiPandey06)
 
-- [Priya Deshmukh](https://github.com/deshmukh612)
-- [Aun Mohammad](https://github.com/aun0545088)
-- [Ramanjeet Singh](https://github.com/gzbsingh)
-- [Musharrat Jaha Afsar Baig](https://github.com/mush1998)
-- [Bhoop Singh](https://github.com/bhupirao)
+- [Satya Prakash Mishra](https://github.com/Satya1809)
 
-## Documentation
 
-[Documentation](https://medium.com/@aun0545088/construct-week-project-b8cb79bb6cb3)
+
 
 
 
@@ -101,17 +96,12 @@ We All Contributer build this project.We all face some problems.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanjeet-singh-212430190/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ramanjeet1998)
 
-[linkedin](linkedin.com/in/shubham-pawar-2b7a30124)
 
-[linkedin](https://www.linkedin.com/in/musharrat-jaha-a53a511a5/)
+[linkedin](https://www.linkedin.com/in/prachi-pandey-sp1806/)
 
-[linkedin](linkedin.com/in/priya-deshmukh-29a759130)
+[linkedin](https://www.linkedin.com/in/satya-mishra-1806sap/)
 
-[linkedin](https://www.linkedin.com/in/aun-mohammad-931b5b11b/)
 
 ## FAQ
 
